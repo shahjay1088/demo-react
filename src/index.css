@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #282D35;
+  background-image: url(./react-icon-large.png);
+  background-repeat: no-repeat;
+  background-position-x:right ;
+  background-position-y:center ;
+  font-family: Inter, sans-serif;
+}
